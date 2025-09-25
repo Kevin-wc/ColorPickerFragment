@@ -1,0 +1,10 @@
+# Kevin Gonzalez
+
+1. The constraint layout is the xml file named activity_main.xml which contains the two textviews.
+   Similarly, the values folder in res contains the colors.xml string with string resources for colors.
+
+2. The interface is not currently used but its made in the java folder and it is called "OnMessage
+   SendListener", it is also an object made in the colorPickFragment file.
+
+   ColorPickFragment is the file that is a fragment from the mainActivity, it contains the grid and
+   a couple of methods onAttatch and onCreate are also in this file
